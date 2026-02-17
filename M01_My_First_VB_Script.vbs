@@ -10,3 +10,6 @@ MsgBox message, 0, "Hello ! ! !"
 MsgBox num, 0, "Hello 2"
 
 WScript.Echo "Hello"
+
+MsgBox
+
