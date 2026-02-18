@@ -22,3 +22,7 @@ MsgBox "The sum of "& num1 & " and " & num2 " is " & summ, 0, SITE_TITLE
 MsgBox "** The sum of "& num1 & "and " & num2 & _
             " is " & sum, 0, SITE_TITLE
 
+name = "John"
+city = "New York"
+
+MsgBox name & " lives in " & city & "!! ", 0, SITE_TITLE
