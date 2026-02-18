@@ -17,7 +17,7 @@ sum = num1 + num2
 
 MsgBox sum
 
-MsgBox "The sum of "& num1 & " and " & num2 " is " & summ, 0, SITE_TITLE
+MsgBox "The sum of "& num1 & " and " & num2 & " is " & sum, 0, SITE_TITLE
 
 MsgBox "** The sum of "& num1 & "and " & num2 & _
             " is " & sum, 0, SITE_TITLE
